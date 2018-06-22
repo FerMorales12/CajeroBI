@@ -1,0 +1,6 @@
+C:\Users\Diego Morales\Documents\Visual Studio 2013\Projects\CajeroBI\CajeroBI\bin\Debug\CajeroBI.exe.config
+C:\Users\Diego Morales\Documents\Visual Studio 2013\Projects\CajeroBI\CajeroBI\bin\Debug\CajeroBI.exe
+C:\Users\Diego Morales\Documents\Visual Studio 2013\Projects\CajeroBI\CajeroBI\bin\Debug\CajeroBI.pdb
+C:\Users\Diego Morales\Documents\Visual Studio 2013\Projects\CajeroBI\CajeroBI\obj\Debug\CajeroBI.csprojResolveAssemblyReference.cache
+C:\Users\Diego Morales\Documents\Visual Studio 2013\Projects\CajeroBI\CajeroBI\obj\Debug\CajeroBI.exe
+C:\Users\Diego Morales\Documents\Visual Studio 2013\Projects\CajeroBI\CajeroBI\obj\Debug\CajeroBI.pdb
